@@ -514,9 +514,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@digication/ws_hw_fs_fe_typescript@workspace:.":
+"@albarkahdev/fe-typescript@workspace:.":
   version: 0.0.0-use.local
-  resolution: "@digication/ws_hw_fs_fe_typescript@workspace:."
+  resolution: "@albarkahdev/fe-typescript@workspace:."
   dependencies:
     "@emotion/react": ^11.5.0
     "@emotion/styled": ^11.3.0
